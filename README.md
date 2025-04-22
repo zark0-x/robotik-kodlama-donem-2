@@ -10,3 +10,6 @@
 - [16×2 LCD Ekranın I2C Modülüne Yazı Yazdırma](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Printing%20on%20the%20Screen%20with%2016%C3%972%20LCD%20Screen%20and%20I2C%20Module/lcd_l2c_code)
 - [RGB Led Uygulaması](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/RGB%20Led%20Application)
 - [RGB LED ile Rastgele Renk Yanıp Sönme Uygulaması](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Random%20Color%20Flashing%20Application%20with%20RGB%20LED)
+- [HC-SR04 Ultrasonik Mesafe Sensörü ile Mesafe Ölçme Aracı](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Distance%20Measuring%20App/distance_measuring_app)
+- [HC-SR04'den Gelen Veriyi LCD Ekrana Aktarma](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Distance%20Sensor%20Display/distance_sensor_display)
+- [HC-SR04 ile Sabit Mesafe Ölçme](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Static%20Distance%20Sensor/static_distance_sensor)
