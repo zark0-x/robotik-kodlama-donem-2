@@ -1,6 +1,9 @@
 <!--Height-->
 <!--Italic-->
 # Robotik Kodlama 2. Dönem
+### Hatalarım veya eksiklerim için çok özür dilerim!
+### I apologize for any mistakes or omissions!
+
 
 - [3 LED ve LDR Kombinasyonu / 3 LED and LDR Combination](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/3%20LED%20and%20LDR%20Combination)
 - [Buzzer Uygulaması / Buzzer Application](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Buzzer%20Application/buzzer_code)
