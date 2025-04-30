@@ -15,5 +15,5 @@
   - [🇹🇷 RGB LED ile Rastgele Renk Yanıp Sönme / 🇺🇸 Random Color Flashing with RGB LED](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Random%20Color%20Flashing%20Application%20with%20RGB%20LED)
   - [🇹🇷 HC-SR04 Ultrasonik Mesafe Sensörü ile Mesafe Ölçme Aracı / 🇺🇸 Distance Measuring App with HC-SR04](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Distance%20Measuring%20App/distance_measuring_app)
   - [🇹🇷 HC-SR04'ten Veriyi LCD'ye Aktarma / 🇺🇸 Transferring Data from HC-SR04 to LCD  ](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Distance%20Sensor%20Display/distance_sensor_display)
-  - [-🇹🇷 HC-SR04 ile Sabit Mesafe Ölçümü / 🇺🇸 Static Distance Measuring with HC-SR04](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Static%20Distance%20Sensor/static_distance_sensor)
+  - [🇹🇷 HC-SR04 ile Sabit Mesafe Ölçümü / 🇺🇸 Static Distance Measuring with HC-SR04](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Static%20Distance%20Sensor/static_distance_sensor)
   - [🇹🇷 Mesafeye Göre LED Kontrolü / 🇺🇸 Distance Based LED Control](https://github.com/zark0-x/robotik-kodlama-donem-2/tree/main/Distance%20Based%20Led%20Control/distance_based_led_control)
